@@ -1,0 +1,5 @@
+#!/usr/bin/perl
+foreach ('hickory','dickory','doc') {
+   print $_;
+   print "\n";
+}
